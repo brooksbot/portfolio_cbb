@@ -562,7 +562,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 #acid {
   height: 265px;
   position: relative;
-  left: 90px;
+  left: 0px;
 }
 #arity {
   height: 265px;
